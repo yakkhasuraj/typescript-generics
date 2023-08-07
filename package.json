@@ -1,0 +1,16 @@
+{
+  "name": "typescript-generics",
+  "version": "1.0.0",
+  "description": "Master typescript generics",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Suraj Yakkha",
+  "license": "LGPL-2.1-or-later",
+  "dependencies": {
+    "react": "^18.2.0",
+    "vitest": "^0.33.0"
+  }
+}
